@@ -1,5 +1,7 @@
 ---
-title: "denhamam.github.io"
+title: "Ainsley Denham"
+---
+
 ---
 
 This is a Quarto website.
