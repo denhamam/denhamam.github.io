@@ -1,11 +1,12 @@
 ---
 title: My projects 
+format: html
 ---
 
 In the Spring of 2025 I took a class called Quantitative Reasoning which introduced us to the computer language, R. I learned to write code and about data science. Here is a collection of links!
 
+[Building a project website](index.qmd)
+
 -   In this assignment we built a static users site with GitHub Pages
-
 -   Includes a github repo for access to all the code
-
--   Look at how high quality my work is!
+-   In this assignment I learned that the majority of code is troubleshooting and that most code is straightforward once you understand how code functions
