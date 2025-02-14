@@ -14,8 +14,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: morph
+    css: C:/Users/ainsleymarie29/Downloads/bootstrap.min.css
     toc: true
     page-layout: full
 editor: visual
