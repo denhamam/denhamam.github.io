@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Ainsley Denham",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Ainsley Denham. I am a student at Colorado State University perusing a bachelors degree in science, majoring in ecosystem science and sustainability. With this degree I hope to become a climate scientist and study the effects of climate change globally. I am comitted to enviornmental stewardship and community engagement. I love being in nature, whether its hiking, playing volleyball, or exploring new landscapes."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "My resume:\nCover letter:"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class called Quantitative Reasoning which introduced us to the computer language, R. I learned to write code and about data science. Here is a collection of links!\n\nIn this assignment we built a static users site with GitHub Pages\nIncludes a github repo for access to all the code\nLook at how high quality my work is!"
   }
 ]

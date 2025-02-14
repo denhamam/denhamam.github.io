@@ -1,13 +1,21 @@
 ---
 title: "Ainsley Denham"
+toc: false 
+about: 
+  template: jolla
+  image-shape: rectangle 
+  image-width: 17em
+  links: # create buttons
+  - text: Linkedin
+    href: https://www.linkedin.com/in/ainsley-denham-263787348/
+  - text: GitHub
+    href: https://github.com/denhamam
+  - text: Email
+    href: mailto:denhamam@colostate.edu
 ---
 
----
+![](images/profilepic-03.jpg){width="2in"}
 
-This is a Quarto website.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello! I'm Ainsley Denham. I am a student at Colorado State University perusing a bachelors degree in science, majoring in ecosystem science and sustainability. With this degree I hope to become a climate scientist and study the effects of climate change globally. I am comitted to enviornmental stewardship and community engagement. I love being in nature, whether its hiking, playing volleyball, or exploring new landscapes.

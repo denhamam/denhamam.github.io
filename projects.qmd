@@ -1,0 +1,11 @@
+---
+title: My projects 
+---
+
+In the Spring of 2025 I took a class called Quantitative Reasoning which introduced us to the computer language, R. I learned to write code and about data science. Here is a collection of links!
+
+-   In this assignment we built a static users site with GitHub Pages
+
+-   Includes a github repo for access to all the code
+
+-   Look at how high quality my work is!
